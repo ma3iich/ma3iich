@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@ma3iich"><img src="https://img.shields.io/badge/YouTube-@ma3iich-333333?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D0D0D" alt="YouTube"></a>
   <a href="https://discord.gg/73w9ZanWyv"><img src="https://img.shields.io/badge/Discord-ma3Iich%20hood-333333?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D0D0D" alt="Discord"></a>
-  <a href="https://stefanlesuisse.github.io"><img src="https://img.shields.io/badge/Portfolio-stefanlesuisse.github.io-333333?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0D0D0D" alt="Portfolio"></a>
+  <a href="https://ma3iich.github.io"><img src="https://img.shields.io/badge/Portfolio-ma3iich.github.io-333333?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0D0D0D" alt="Portfolio"></a>
 </p>
 
 ## 👋 Salut, moi c'est ma3iich
@@ -91,11 +91,11 @@ Mon gros projet du moment : **Pure**, un serveur GTA RP whitelist français que 
 
 | Projet | Description |
 |---|---|
-| 🎯 [**Pure-Target**](https://github.com/stefanlesuisse/pure-target) | Menu de ciblage clic droit pour FiveM, open source. Remplace ox_target, qtarget et qb-target. 13 langues. |
+| 🎯 [**Pure-Target**](https://github.com/ma3iich/pure-target) | Menu de ciblage clic droit pour FiveM, open source. Remplace ox_target, qtarget et qb-target. 13 langues. |
 | 🌴 [**Pure**](https://servers.fivem.net/servers/detail/zjjxbq9) | Serveur GTA RP whitelist français, fait de A à Z : maps, scripts, véhicules, lore. [Discord](https://discord.gg/hpr7xwVqyf) · [YouTube](https://www.youtube.com/@PureRPFrance) |
 | 🐱 [**CatCup**](https://catcup.fr) | Éditeur vidéo en ligne |
 | 👕 [**Que Du Full**](https://quedufull.pages.dev) | Site vitrine d'une boutique de vêtements à Lille |
-| 🔗 [**Portfolio**](https://stefanlesuisse.github.io) | Tous mes projets et liens au même endroit |
+| 🔗 [**Portfolio**](https://ma3iich.github.io) | Tous mes projets et liens au même endroit |
 
 ---
 
