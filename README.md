@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="banner.png" alt="ma3iich — développeur touche-à-tout, serveurs FiveM" width="100%">
+  <a href="https://github.com/ma3iich"><img src="https://img.shields.io/badge/Language-English-FFFFFF?style=flat-square&labelColor=0D0D0D" alt="English"></a>
+  <a href="https://github.com/ma3iich/ma3iich/blob/main/README.fr.md"><img src="https://img.shields.io/badge/Langue-Fran%C3%A7ais-333333?style=flat-square&labelColor=0D0D0D" alt="Français"></a>
+</p>
+
+<p align="center">
+  <img src="banner-en.png" alt="ma3iich — all-round developer, FiveM servers" width="100%">
 </p>
 
 <p align="center">
@@ -8,54 +13,54 @@
   <a href="https://ma3iich.github.io"><img src="https://img.shields.io/badge/Portfolio-ma3iich.github.io-333333?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0D0D0D" alt="Portfolio"></a>
 </p>
 
-## 👋 Salut, moi c'est ma3iich
+## 👋 Hi, I'm ma3iich
 
-Développeur **touche-à-tout** : scripts, interfaces, sites web, bots Discord, montage vidéo…
-Ces temps-ci, je suis surtout à fond dans les **serveurs FiveM** (GTA V roleplay), du **mapping** jusqu'aux **scripts**,
-en passant par les véhicules, les vêtements, les interfaces et l'hébergement.
+An **all-round developer**: scripts, interfaces, websites, Discord bots, video editing…
+These days I'm mostly all-in on **FiveM servers** (GTA V roleplay), from **mapping** to **scripts**,
+including vehicles, clothing, interfaces and hosting.
 
-Mon gros projet du moment : **Pure**, un serveur GTA RP whitelist français que je construis de A à Z.
+My big project right now: **Pure**, a French whitelisted GTA RP server I'm building from the ground up.
 
 ---
 
-## 🎮 Ce que je fais sur FiveM
+## 🎮 What I do on FiveM
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🧩 Scripts (Lua · QBCore · ox)
-- Plus de **40 scripts maison** : menu de ciblage, scènes à plusieurs, réanimation à deux, coma
-- Police : **MDT** complet, preuves (sang, empreintes, lampe UV), menottes, radar, dispatch
-- Activités : braquage de trains, convois, cambriolages, go-fast, pêche, vol de sac
-- Systèmes : paie, usure, casiers, horaires, clés de véhicule sécurisées côté serveur
+- Over **40 custom scripts**: targeting menu, multi-player scenes, two-person revive, coma
+- Police: full **MDT**, evidence (blood, fingerprints, UV light), handcuffs, radar, dispatch
+- Activities: train heists, convoys, burglaries, go-fast runs, fishing, bag snatching
+- Systems: payroll, wear and tear, lockers, schedules, server-side secured vehicle keys
 
 </td>
 <td width="50%" valign="top">
 
 ### 🗺️ Mapping
-- Installation et réparation de **MLO / ymap** (conflits avec la map d'origine, collisions)
-- **Navmesh** et trafic PNJ refaits pour que les quartiers vivent
-- Îles, prison, hôpital, mairie, nouveaux quartiers, frontières, zones de brume
-- **Minimap redessinée** et carte du menu Échap à jour avec les mappings
+- Installing and fixing **MLOs / ymaps** (conflicts with the base map, collisions)
+- Rebuilt **navmesh** and NPC traffic so neighborhoods feel alive
+- Islands, prison, hospital, city hall, new districts, borders, fog zones
+- **Redrawn minimap** and pause-menu map kept up to date with the mappings
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-### 🚓 Véhicules
-- Addons, **liveries** (Blender + Sollumz), handling, sirènes et gyrophares
-- Véhicules armés, rampes de soute, ancre de bateau, hélicam
-- Catalogue de concession avec photos et barres de performance
+### 🚓 Vehicles
+- Addons, **liveries** (Blender + Sollumz), handling, sirens and lightbars
+- Armed vehicles, cargo ramps, boat anchor, heli camera
+- Dealership catalog with photos and performance bars
 
 </td>
 <td valign="top">
 
-### 👕 Vêtements & personnages
-- Conversion de packs **EUP replace → addon**, gestion des limites `.ymt`
-- Création de personnage, apparence, tenues, images d'inventaire
-- Optimisation des textures pour éviter les freezes
+### 👕 Clothing & characters
+- Converting **EUP packs from replace to addon**, handling the `.ymt` limits
+- Character creation, appearance, outfits, inventory images
+- Texture optimization to prevent freezes
 
 </td>
 </tr>
@@ -63,23 +68,23 @@ Mon gros projet du moment : **Pure**, un serveur GTA RP whitelist français que 
 <td valign="top">
 
 ### 🖥️ Interfaces (NUI)
-- HTML / CSS / JavaScript dans le jeu : MDT, tablettes, menus, téléphone retouché
-- Interfaces fluides pensées pour ne pas faire ramer le jeu
+- In-game HTML / CSS / JavaScript: MDT, tablets, menus, reworked phone
+- Smooth interfaces designed not to slow the game down
 
 </td>
 <td valign="top">
 
-### 🛡️ Serveur & sécurité
-- Hébergement **Linux**, txAdmin, **MySQL**, sauvegardes automatiques
-- Anti-triche, audits de sécurité, analyse et correction de **crashs**
+### 🛡️ Server & security
+- **Linux** hosting, txAdmin, **MySQL**, automatic backups
+- Anti-cheat, security audits, **crash** analysis and fixes
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### 📣 Communauté
-**Bots Discord** en Python (tickets, whitelist, votes, vitrine vidéos, annonces de lives) · **trailers et shorts** montés pour YouTube / TikTok · page du serveur sur la liste FiveM
+### 📣 Community
+**Discord bots** in Python (tickets, whitelist, votes, video showcase, stream announcements) · **trailers and shorts** edited for YouTube / TikTok · server page on the FiveM server list
 
 </td>
 </tr>
@@ -87,20 +92,20 @@ Mon gros projet du moment : **Pure**, un serveur GTA RP whitelist français que 
 
 ---
 
-## 📦 Projets
+## 📦 Projects
 
-| Projet | Description |
+| Project | Description |
 |---|---|
-| 🎯 [**Pure-Target**](https://github.com/ma3iich/pure-target) | Menu de ciblage clic droit pour FiveM, open source. Remplace ox_target, qtarget et qb-target. 13 langues. |
-| 🎒 [**Pure Inventory**](https://github.com/ma3iich/pure_inventory) | Inventaire pour FiveM, open source : ton perso en 3D, des cases de vêtements, un rendu réglable. Standalone ou QBCore, marche avec Pure-Target. |
-| 🌴 [**Pure**](https://servers.fivem.net/servers/detail/zjjxbq9) | Serveur GTA RP whitelist français, fait de A à Z : maps, scripts, véhicules, lore. [Discord](https://discord.gg/hpr7xwVqyf) · [YouTube](https://www.youtube.com/@PureRPFrance) |
-| 🐱 [**CatCup**](https://catcup.fr) | Éditeur vidéo en ligne |
-| 👕 [**Que Du Full**](https://quedufull.pages.dev) | Site vitrine d'une boutique de vêtements à Lille |
-| 🔗 [**Portfolio**](https://ma3iich.github.io) | Tous mes projets et liens au même endroit |
+| 🎯 [**Pure-Target**](https://github.com/ma3iich/pure-target) | Open-source right-click targeting menu for FiveM. Replaces ox_target, qtarget and qb-target. 13 languages. |
+| 🎒 [**Pure Inventory**](https://github.com/ma3iich/pure_inventory) | Open-source inventory for FiveM: your character in 3D, clothing slots, an adjustable look. Standalone or QBCore, works with Pure-Target. |
+| 🌴 [**Pure**](https://servers.fivem.net/servers/detail/zjjxbq9) | French whitelisted GTA RP server, built from the ground up: maps, scripts, vehicles, lore. [Discord](https://discord.gg/hpr7xwVqyf) · [YouTube](https://www.youtube.com/@PureRPFrance) |
+| 🐱 [**CatCup**](https://catcup.fr) | Online video editor |
+| 👕 [**Que Du Full**](https://quedufull.pages.dev) | Showcase website for a clothing store in Lille, France |
+| 🔗 [**Portfolio**](https://ma3iich.github.io) | All my projects and links in one place |
 
 ---
 
-## 🛠️ Outils
+## 🛠️ Tools
 
 <p>
   <img src="https://img.shields.io/badge/Lua-0D0D0D?style=flat-square&logo=lua&logoColor=white" alt="Lua">
@@ -117,5 +122,5 @@ Mon gros projet du moment : **Pure**, un serveur GTA RP whitelist français que 
 </p>
 
 <p align="center">
-  <sub>Une question, un projet FiveM ? Passe sur le <a href="https://discord.gg/73w9ZanWyv">Discord</a> 🤍</sub>
+  <sub>A question, a FiveM project? Drop by the <a href="https://discord.gg/73w9ZanWyv">Discord</a> 🤍</sub>
 </p>
