@@ -92,6 +92,7 @@ Mon gros projet du moment : **Pure**, un serveur GTA RP whitelist français que 
 | Projet | Description |
 |---|---|
 | 🎯 [**Pure-Target**](https://github.com/ma3iich/pure-target) | Menu de ciblage clic droit pour FiveM, open source. Remplace ox_target, qtarget et qb-target. 13 langues. |
+| 🎒 [**Pure Inventory**](https://github.com/ma3iich/pure_inventory) | Inventaire pour FiveM, open source : ton perso en 3D, des cases de vêtements, un rendu réglable. Standalone ou QBCore, marche avec Pure-Target. |
 | 🌴 [**Pure**](https://servers.fivem.net/servers/detail/zjjxbq9) | Serveur GTA RP whitelist français, fait de A à Z : maps, scripts, véhicules, lore. [Discord](https://discord.gg/hpr7xwVqyf) · [YouTube](https://www.youtube.com/@PureRPFrance) |
 | 🐱 [**CatCup**](https://catcup.fr) | Éditeur vidéo en ligne |
 | 👕 [**Que Du Full**](https://quedufull.pages.dev) | Site vitrine d'une boutique de vêtements à Lille |
