@@ -1,5 +1,5 @@
 <details name="langue">
-<summary><img src="https://img.shields.io/badge/Langue-Fran%C3%A7ais-FFFFFF?style=for-the-badge&labelColor=0D0D0D" alt="Français"></summary>
+<summary><picture><img src="https://img.shields.io/badge/Langue-Fran%C3%A7ais-FFFFFF?style=for-the-badge&labelColor=0D0D0D" alt="Français"></picture></summary>
 
 <p align="center">
   <img src="banner.png" alt="ma3iich — développeur touche-à-tout, serveurs FiveM" width="100%">
@@ -125,7 +125,7 @@ Mon gros projet du moment : **Pure**, un serveur GTA RP whitelist français que 
 
 </details>
 <details name="langue" open>
-<summary><img src="https://img.shields.io/badge/Language-English-FFFFFF?style=for-the-badge&labelColor=0D0D0D" alt="English"></summary>
+<summary><picture><img src="https://img.shields.io/badge/Language-English-FFFFFF?style=for-the-badge&labelColor=0D0D0D" alt="English"></picture></summary>
 
 <p align="center">
   <img src="banner-en.png" alt="ma3iich — all-round developer, FiveM servers" width="100%">
