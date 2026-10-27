@@ -64,13 +64,13 @@ Inventaire pour FiveM, open source : ton **perso en 3D**, des cases de vêtement
 
 <br clear="left">
 
-<a href="https://github.com/ma3iich/pure_clothing"><img src="cartes/fr/pure-clothing.jpg" align="left" width="46%" alt="Pure Clothing, magasins de vêtements"></a>
+<a href="https://www.youtube.com/watch?v=qSAtUIHN1zw"><img src="cartes/fr/pure-clothing.jpg" align="left" width="46%" alt="Tuto vidéo de Pure Clothing"></a>
 
 ### Pure Clothing
 
 Magasins de **vêtements** pour FiveM, open source : chaque vêtement acheté arrive dans l'inventaire en objet, avec sa photo. On le porte, on l'enlève, on le donne. Standalone, QBCore ou ESX, marche avec Pure Inventory.
 
-<a href="https://github.com/ma3iich/pure_clothing"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
+<a href="https://github.com/ma3iich/pure_clothing"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a> <a href="https://www.youtube.com/watch?v=qSAtUIHN1zw"><img src="https://img.shields.io/badge/Tuto%20vid%C3%A9o-262626?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Tuto vidéo"></a>
 
 <br clear="left">
 
@@ -173,13 +173,13 @@ Open-source inventory for FiveM: your **character in 3D**, clothing slots, an ad
 
 <br clear="left">
 
-<a href="https://github.com/ma3iich/pure_clothing"><img src="cartes/en/pure-clothing.jpg" align="left" width="46%" alt="Pure Clothing, clothing shops"></a>
+<a href="https://www.youtube.com/watch?v=qSAtUIHN1zw"><img src="cartes/en/pure-clothing.jpg" align="left" width="46%" alt="Pure Clothing video tutorial"></a>
 
 ### Pure Clothing
 
 Open-source **clothing shops** for FiveM: every piece you buy lands in your inventory as an item, with its picture. Wear it, take it off, give it. Standalone, QBCore or ESX, works with Pure Inventory.
 
-<a href="https://github.com/ma3iich/pure_clothing"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
+<a href="https://github.com/ma3iich/pure_clothing"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a> <a href="https://www.youtube.com/watch?v=qSAtUIHN1zw"><img src="https://img.shields.io/badge/Video%20tutorial-262626?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Video tutorial"></a>
 
 <br clear="left">
 
