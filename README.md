@@ -74,6 +74,16 @@ Magasins de **vêtements** pour FiveM, open source : chaque vêtement acheté ar
 
 <br clear="left">
 
+<a href="https://www.youtube.com/watch?v=iadg709uEHc"><img src="cartes/fr/pure-appearance.jpg" align="left" width="46%" alt="Vidéo de Pure Appearance"></a>
+
+### Pure Appearance
+
+**Création de perso** pour FiveM, open source : coiffeur, tatoueur et chirurgien dans un menu sobre et léger. Remplace illenium-appearance et qb-clothing sans rien casser. Standalone, QBCore, Qbox ou ESX.
+
+<a href="https://github.com/ma3iich/pure_appearance"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a> <a href="https://www.youtube.com/watch?v=iadg709uEHc"><img src="https://img.shields.io/badge/Vid%C3%A9o-262626?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Vidéo"></a>
+
+<br clear="left">
+
 <a href="https://catcup.fr"><img src="cartes/fr/catcup.jpg" align="left" width="46%" alt="CatCup, éditeur vidéo en ligne"></a>
 
 ### CatCup
@@ -180,6 +190,16 @@ Open-source inventory for FiveM: your **character in 3D**, clothing slots, an ad
 Open-source **clothing shops** for FiveM: every piece you buy lands in your inventory as an item, with its picture. Wear it, take it off, give it. Standalone, QBCore or ESX, works with Pure Inventory.
 
 <a href="https://github.com/ma3iich/pure_clothing"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a> <a href="https://www.youtube.com/watch?v=qSAtUIHN1zw"><img src="https://img.shields.io/badge/Video%20tutorial-262626?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Video tutorial"></a>
+
+<br clear="left">
+
+<a href="https://www.youtube.com/watch?v=iadg709uEHc"><img src="cartes/en/pure-appearance.jpg" align="left" width="46%" alt="Pure Appearance video"></a>
+
+### Pure Appearance
+
+Open-source **character creator** for FiveM, with a barber, a tattoo parlor and a plastic surgeon in a clean, light menu. Drop-in replacement for illenium-appearance and qb-clothing. Standalone, QBCore, Qbox or ESX.
+
+<a href="https://github.com/ma3iich/pure_appearance"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a> <a href="https://www.youtube.com/watch?v=iadg709uEHc"><img src="https://img.shields.io/badge/Video-262626?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Video"></a>
 
 <br clear="left">
 
